@@ -1,4 +1,4 @@
-# MAX31865 [![Build Status](https://travis-ci.com/adafruit/Adafruit_MAX31865.svg?branch=master)](https://travis-ci.com/adafruit/Adafruit_MAX31865)
+# MAX31865 [![Build Status]
 
 * https://www.instagram.com/github.nimaltd/
 * https://www.youtube.com/channel/UCUhY7qY1klJm1d2kulr9ckw
