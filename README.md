@@ -7,7 +7,7 @@
 This is the MAX31856 STM32 HAL Library  
 Based on https://github.com/adafruit/Adafruit_MAX31865      
 
-Installing Library:
+How to use this Library:
 * Select "General peripheral Initalizion as a pair of '.c/.h' file per peripheral" on project settings.   
 * Enable SPI and set clock below 2MHz,MSB,CPOL LOW,CPHA 2 Edge.   
 * Enable a gpio as Output for CS Pin.  
