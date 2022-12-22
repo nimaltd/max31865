@@ -2,7 +2,7 @@
 
 * http://www.github.com/NimaLTD   
 * https://www.instagram.com/github.nimaltd/   
-* https://www.youtube.com/channel/UCUhY7qY1klJm1d2kulr9ckw   
+* https://www.youtube.com/@nimaltd  
 
 This is the MAX31865 STM32 HAL Library  
 Based on https://github.com/adafruit/Adafruit_MAX31865      
