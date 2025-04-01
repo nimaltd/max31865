@@ -14,7 +14,7 @@ How to use this Library:
 * Include Header and source into your project.   
 * Config "Max31865Conf.h".   
 * Call Max31865_Init( .. .. .. ).   
-```
+``` c
 #include "Max31865.h"
 Max31865_t  pt100;
 bool        pt100isOK;
